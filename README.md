@@ -17,23 +17,25 @@ docker pull postgres
 Run the following command:
 
 `````
-docker-compose -d
+docker-compose up -d
 
 `````
+
+
+# Modify the .env file
+
+1. Add database name
+2. Add password
+
+Note: In user, you can leave postgres as default or you can modify it.
 
 # Connect to database
 
 Nota: In my case, to connect to the database, I used DBeaver In my case, to connect to the database, I used DBeaver, you can use whichever suits you best.
 
- Follow the steps below.
+Follow the corresponding steps to connect to the database, use the data that was placed in the .env file
 
 1. Enter the database name
-
-`````
-orders_db
-
-`````
-
 2. Enter the connection host and port
 
 `````
