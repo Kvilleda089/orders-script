@@ -1,10 +1,10 @@
 # orders-script
 
-#Requirements
+# Requirements
 
 Have Docker installed
 
-#CreatePostgresqlImage
+# CreatePostgresqlImage
 
 Run the following command
 
