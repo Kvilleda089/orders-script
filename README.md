@@ -1,11 +1,12 @@
 # orders-script
 
 # Requisitos
-    - Tener instalado Docker 
+
+Tener instalado Docker 
 
 # Creación Imagen Postgresql 
 
-    - Ejecutar el siguiente comando
+Ejecutar el siguiente comando
 
 `````
 docker pull postgres
@@ -13,7 +14,7 @@ docker pull postgres
 
 # Crear contenedor base de datos Postgress
 
- - Ejecutar el comando siguiente: 
+ Ejecutar el comando siguiente: 
 
 `````
  docker-compose up -d
