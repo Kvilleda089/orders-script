@@ -4,7 +4,7 @@
 
 Have Docker installed
 
-# CreatePostgresqlImage
+# Create Postgresql Image
 
 Run the following command
 
