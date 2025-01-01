@@ -12,6 +12,13 @@ Run the following command
 docker pull postgres
 `````
 
+# Modify the .env file
+
+1. Add database name
+2. Add password
+
+Note: In user, you can leave postgres as default or you can modify it.
+
 # Create Postgress database container
 
 Run the following command:
@@ -20,14 +27,6 @@ Run the following command:
 docker-compose up -d
 
 `````
-
-
-# Modify the .env file
-
-1. Add database name
-2. Add password
-
-Note: In user, you can leave postgres as default or you can modify it.
 
 # Connect to database
 
