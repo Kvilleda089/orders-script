@@ -30,7 +30,7 @@ docker-compose up -d
 
 # Connect to database
 
-Nota: In my case, to connect to the database, I used DBeaver In my case, to connect to the database, I used DBeaver, you can use whichever suits you best.
+Note: In my case, to connect to the database, I used DBeaver In my case, to connect to the database, I used DBeaver, you can use whichever suits you best.
 
 Follow the corresponding steps to connect to the database, use the data that was placed in the .env file
 
